@@ -19,5 +19,5 @@ This is a web API project that will take the users two inputs in the url and tak
 
 
 
-# Peer Review: Jessie Lamzon
-Code is working well and runs without errors.  Good job!
+# Peer Review Carlos Felipe: 
+This program works well it displays a good amount of text about the user's name and time they woke. It is way better than my one liner that is bland and boring and not good and god I wish I was as good as Brandon. Good job. 
